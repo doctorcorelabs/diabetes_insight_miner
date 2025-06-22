@@ -3,9 +3,9 @@
 # Buat aplikasi baru dan catat informasi berikut:
 
 # Reddit API Credentials
-CLIENT_ID = "YOUR_CLIENT_ID_HERE"
-CLIENT_SECRET = "YOUR_CLIENT_SECRET_HERE"
-USER_AGENT = "DiabetesInsightMiner/1.0 (by /u/YOUR_USERNAME)"
+CLIENT_ID = "Xk2ENcT1vd04kT1Lj0wgzg"
+CLIENT_SECRET = "RjSfpnZ0HxtqPwcnQno8h2DVedN0Aw"
+USER_AGENT = "DiabetesInsightMiner/1.0 (by /u/Professional_Cry2422)"
 
 # Subreddit yang akan di-scrape
 SUBREDDIT_NAME = "diabetes"
